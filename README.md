@@ -1,3 +1,3 @@
-This is first step node to-words learning
+This is single step node to-words learning
 
-# node_leaning 
+# Node Learning
